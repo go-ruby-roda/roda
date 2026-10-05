@@ -2,4 +2,4 @@ module github.com/go-ruby-roda/roda
 
 go 1.27.1
 
-require github.com/go-ruby-rack/rack v0.0.0-20260916101131-d86b924dd331
+require github.com/go-ruby-rack/rack v0.0.0-20261005011359-576c68dab60d
